@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Basic_RecyclerView</string>
+    <string name="app_name">RecyclerView_with_Retrofit</string>
     <string name="name">Name</string>
     <string name="image">Avatar image</string>
 </resources>

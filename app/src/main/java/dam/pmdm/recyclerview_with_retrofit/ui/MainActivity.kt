@@ -1,4 +1,4 @@
-package dam.pmdm.basic_recyclerview.ui
+package dam.pmdm.recyclerview_with_retrofit.ui
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
@@ -8,8 +8,8 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
-import dam.pmdm.basic_recyclerview.R
-import dam.pmdm.basic_recyclerview.databinding.ActivityMainBinding
+import dam.pmdm.recyclerview_with_retrofit.R
+import dam.pmdm.recyclerview_with_retrofit.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

@@ -6,6 +6,6 @@
 
     <fragment
         android:id="@+id/listFragment"
-        android:name="dam.pmdm.basic_recyclerview.ui.ListFragment"
+        android:name="dam.pmdm.recyclerview_with_retrofit.ui.ListFragment"
         android:label="ListFragment" />
 </navigation>

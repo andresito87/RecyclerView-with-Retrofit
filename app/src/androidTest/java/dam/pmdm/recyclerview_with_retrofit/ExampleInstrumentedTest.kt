@@ -1,4 +1,4 @@
-package dam.pmdm.basic_recyclerview
+package dam.pmdm.recyclerview_with_retrofit
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

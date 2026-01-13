@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "dam.pmdm.basic_recyclerview"
+    namespace = "dam.pmdm.recyclerview_with_retrofit"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "dam.pmdm.basic_recyclerview"
+        applicationId = "dam.pmdm.recyclerview_with_retrofit"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -47,6 +47,10 @@ android {
 }
 
 dependencies {
+
+    implementation(libs.retrofit)
+    implementation(libs.converter.gson)
+    implementation(libs.kotlinx.coroutines.android)
 
     implementation(libs.androidx.navigation.ui.ktx)
     implementation(libs.androidx.navigation.fragment.ktx)

@@ -1,4 +1,4 @@
-package dam.pmdm.basic_recyclerview
+package dam.pmdm.recyclerview_with_retrofit
 
 import org.junit.Test
 
