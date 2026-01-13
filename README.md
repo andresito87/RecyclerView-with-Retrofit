@@ -22,6 +22,3 @@ Se utiliza la API pública de Rick and Morty para obtener los datos.
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/lbarreroies/RecyclerView-with-Retrofit.git
-
-   ```bash
-   git clone https://github.com/tu_usuario/RecyclerView-Retrofit-MVVM.git
